@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/RealtimePrediction.unity
+    path: Assets/Scenes/RealtimePrediction_Multiclass.unity
     guid: 9750a111ceb2ca643b5ebffbfd379586
   m_configObjects: {}
